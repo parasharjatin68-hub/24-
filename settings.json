@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a bot dont kill me",
-        
-        
+        "I'm a bot dont kill me"
       ]
     },
     "chat-log": true,
